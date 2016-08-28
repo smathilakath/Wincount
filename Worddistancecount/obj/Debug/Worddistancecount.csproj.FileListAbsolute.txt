@@ -1,0 +1,6 @@
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Worddistancecount\Worddistancecount\bin\Debug\Worddistancecount.exe.config
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Worddistancecount\Worddistancecount\bin\Debug\Worddistancecount.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Worddistancecount\Worddistancecount\bin\Debug\Worddistancecount.pdb
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Worddistancecount\Worddistancecount\obj\Debug\Worddistancecount.csprojResolveAssemblyReference.cache
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Worddistancecount\Worddistancecount\obj\Debug\Worddistancecount.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Worddistancecount\Worddistancecount\obj\Debug\Worddistancecount.pdb
